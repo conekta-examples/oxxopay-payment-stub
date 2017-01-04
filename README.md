@@ -1,2 +1,4 @@
-# oxxopay-payment-stub
-An example of the official OXXOPay payment stub.
+# OXXOPay Payment Stub
+
+This is an example of this OXXOPay payment stub:
+
